@@ -14,8 +14,9 @@
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rainofsilence&count_private=true&hide=stars&show_icons=true&hide_border=true&cache_seconds=3600" alt="Maue Cheung's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainofsilence&layout=compact&show_icons=true&hide_border=true&cache_seconds=3600&hide=python,c,yacc,lex&langs_count=5" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rainofsilence&count_private=true&hide=stars&show_icons=true&hide_border=true&cache_seconds=3600&theme=dark"><img align="center" alt="Maue Cheung's github stats" src="https://github-readme-stats.vercel.app/api?username=rainofsilence&count_private=true&hide=stars&show_icons=true&hide_border=true&cache_seconds=3600&theme=default"></picture></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rainofsilence&layout=compact&show_icons=true&hide_border=true&cache_seconds=3600&hide=python,c,yacc,lex&langs_count=5&theme=dark"><img align="center" alt="Maue Cheung's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainofsilence&layout=compact&show_icons=true&hide_border=true&cache_seconds=3600&hide=python,c,yacc,lex&langs_count=5&theme=default"></picture></a> |
 | ------------- | ------------- |
+
 
 ---
 
