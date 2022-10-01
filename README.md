@@ -6,7 +6,9 @@
 - 📫 How to reach me ...
 --->
 
-👋 Hi, I’m @rainofsilence.
+<p align="center"><a href="https://rainofsilence.github.io"><img width="80%" alt="Hello, I'm rainofsilence." src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 <!---
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Frainofsilence&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/rainofsilence)
