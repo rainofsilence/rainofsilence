@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 --->
 
-<p align="center"><a href="https://rainofsilence.github.io"><img width="80%" alt="Hello, I'm rainofsilence." src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://rainofsilence.github.io"><img width="80%" alt="Hello, I'm rainofsilence." src="./assets/gh-readme-header.svg" /></a></p>
 
 <br />
 
