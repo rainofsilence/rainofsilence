@@ -10,8 +10,17 @@
 
 <br />
 
-<img src="profile-3d-contrib/profile-customize.svg">
+<!-- Light Mode -->
+<div align="center"> 
+<img src="./profile-3d-contrib/profile-green.svg">
+</div>
 
+<!-- Dark Mode -->
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-green.svg">
+</div>
+
+<br/>
 <!---
 rainofsilence/rainofsilence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
