@@ -8,8 +8,6 @@
 
 <p align="center"><a href="https://rainofsilence.github.io"><img width="90%" alt="Hello, I'm rainofsilence." src="./assets/github-header-image.png" /></a></p>
 
-<br />
-
 <!-- Light Mode -->
 <!---
 <div align="center"> 
