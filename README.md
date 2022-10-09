@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 --->
 
-<p align="center"><a href="https://rainofsilence.github.io"><img width="80%" alt="Hello, I'm rainofsilence." src="./assets/gh-readme-header-2.svg" /></a></p>
+<p align="center"><a href="https://rainofsilence.github.io"><img width="80%" alt="Hello, I'm rainofsilence." src="./assets/github-readme-image.svg" /></a></p>
 
 <br />
 
@@ -16,9 +16,11 @@
 </div>
 
 <!-- Dark Mode -->
+<!---
 <div align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg">
 </div>
+--->
 
 <br/>
 <!---
