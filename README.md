@@ -6,14 +6,16 @@
 - 📫 How to reach me ...
 --->
 
-<p align="center"><a href="https://rainofsilence.github.io"><img width="80%" alt="Hello, I'm rainofsilence." src="./assets/github-readme-image.svg" /></a></p>
+<p align="center"><a href="https://rainofsilence.github.io"><img width="90%" alt="Hello, I'm rainofsilence." src="./assets/github-header-image.png" /></a></p>
 
 <br />
 
 <!-- Light Mode -->
+<!---
 <div align="center"> 
 <img src="./profile-3d-contrib/profile-green.svg">
 </div>
+--->
 
 <!-- Dark Mode -->
 <!---
@@ -22,7 +24,9 @@
 </div>
 --->
 
-<br/>
+
+
+
 <!---
 rainofsilence/rainofsilence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
