@@ -16,7 +16,7 @@ About:
 - 🔭 I’m currently working on @Futuretech
 - 🌱 I’m currently learning Coding...
 - 💬 Ask me about rainofsilence@foxmail.com
-- 💡 Visit my blog <a href="https://rainofsilence.github.io">rainofsilence.icu</a>
+- 💡 Visit my blog <a href="https://rainofsilence.github.io" target="_blank">rainofsilence.icu</a>
 
 Recent：
 
