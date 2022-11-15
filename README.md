@@ -13,7 +13,7 @@ I'm a back-end developer from Earth who is determined to change the planet :)
 Skills: JAVA / GO / MYSQL
 
 About:
-- 🔭 I’m currently working on @Futuretech
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Coding...
 - 💬 Ask me about rainofsilence@foxmail.com
 - 💡 Visit my blog <a href="https://rainofsilence.github.io" target="_blank">rainofsilence.icu</a>
