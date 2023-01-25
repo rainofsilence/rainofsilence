@@ -10,20 +10,24 @@
 
 I'm a back-end developer from Earth who is determined to change the planet :)
 
-Skills: JAVA / GO / MYSQL
+Skills: Java / Go / Mysql / Linux
 
 About:
-- 🔭 I’m currently working on Bank ...
-- 🌱 I’m currently learning Coding...
+- 🔭 I’m currently working on Bank
+- 🌱 I’m currently learning Coding
 - 💬 Ask me about rainofsilence@foxmail.com
 - 💡 Visit my blog <a href="https://rainofsilence.github.io" target="_blank">rainofsilence.icu</a>
 
+<!--
 Recent：
+-->
 
 <!-- Light Mode -->
+<!--
 <div align="center"> 
 <img src="./profile-3d-contrib/profile-green.svg">
 </div>
+-->
 
 <!-- Dark Mode -->
 <!---
