@@ -11,8 +11,7 @@
 --->
 
 <!--- my-ticker --->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FB7299&center=true&width=435&lines=Hello%2C+I'm+rainofsilence.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FB7299&center=true&width=435&lines=Hello%2C+I'm+%40rainofsilence.;I'm+a+full-stack+engineer.)](https://git.io/typing-svg)
 <!-- Light Mode -->
 <!---
 <div align="center"> 
