@@ -14,25 +14,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FB7299&center=true&width=435&lines=Hello%2C+I'm+rainofsilence.)](https://git.io/typing-svg)
 
 <!-- Light Mode -->
+<!---
 <div align="center"> 
 <img src="./profile-3d-contrib/profile-green.svg">
 </div>
-
+--->
 
 <!-- Dark Mode -->
+<!---
 <div align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg">
 </div>
+--->
 
+<!---
 ![Visitors Counts](https://count.getloli.com/get/@rainofsilence?theme=rule34)
-</br>
-
-<!--
-Recent：
--->
-
-
-
+--->
 
 
 <!---
